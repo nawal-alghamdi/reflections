@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A hidden .get repository will create. I need that because now I can keep track of my work by doing commits.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+So now we have the working directory and the git repository and the staging area. The staging area is the middle between the other two directories and I need it to group more than one file and then I can commit all the files together in a single commit
