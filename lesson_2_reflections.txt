@@ -5,4 +5,9 @@ A hidden .get repository will create. I need that because now I can keep track o
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-So now we have the working directory and the git repository and the staging area. The staging area is the middle between the other two directories and I need it to group more than one file and then I can commit all the files together in a single commit
+So now we have the working directory and the git repository and the staging area. The staging area is the middle between the other two directories and I need it to group more than one file and then I can commit all the files together in a single commit.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+After written my changes (one logical change) on the file and then run git status I will found the file that I just made the change in. Then I can add just the file that I made the change in to the staging area then commit the change so now I have commit one logical change.
