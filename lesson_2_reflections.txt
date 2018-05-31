@@ -14,4 +14,5 @@ After written my changes (one logical change) on the file and then run git statu
 
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-It will be helpful if I want another virsion of my app so now there is a 2 branch and everything is organized
+
+It will be helpful if I want another version of my app (like if the app was a game the other version will be the easy mode of the game) so now there is a 2 branch and everything is organized or if I want to make a big change and I don't know if it will work or not and in the same time I want a working version of my app so if there is a bug I can fix it without confusing with my big change so here the branch will be so helful.
