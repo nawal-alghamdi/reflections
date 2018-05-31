@@ -11,3 +11,7 @@ So now we have the working directory and the git repository and the staging area
 How can you use the staging area to make sure you have one commit per logical change?
 
 After written my changes (one logical change) on the file and then run git status I will found the file that I just made the change in. Then I can add just the file that I made the change in to the staging area then commit the change so now I have commit one logical change.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+It will be helpful if I want another virsion of my app so now there is a 2 branch and everything is organized
