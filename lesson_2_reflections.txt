@@ -21,3 +21,7 @@ It will be helpful if I want another version of my app (like if the app was a ga
 How do the diagrams help you visualize the branch structure?
 
 It is so important and it help you so your work will be organized and clear and you know what commit you can reach while you are in branch or commit. And you know were you are so you don't make a commit that is unreachable.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is a new commit that contain all the changes of the two branches. To be clear who will be the parents of the two branches which is the branch that was checked out when the marged happened.
