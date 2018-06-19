@@ -25,3 +25,8 @@ It is so important and it help you so your work will be organized and clear and 
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is a new commit that contain all the changes of the two branches. To be clear who will be the parents of the two branches which is the branch that was checked out when the marged happened.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging: pros: Easy and fast. cons: If the merging changed something I will not know about it.
+Manually merging: pros: To Know where is the conflicts and solve it by yourself rather than something happend to the code that you don't know about it or you don't want it. cons: It will take alot of time and it will be annoying. 
