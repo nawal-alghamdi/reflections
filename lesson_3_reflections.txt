@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+I will use it all the time because if anything happened to my local repository there is a copy online
