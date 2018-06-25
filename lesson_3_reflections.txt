@@ -4,4 +4,9 @@ I will use it all the time because if anything happened to my local repository t
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because if there is more than one working on the same repository it's not important that I want all his changed. Or maybe I don't have
-space on my laptop.  
+space on my laptop.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+The difference between fork and clone is the fork only work from github account to github account, but clone work from gitgub to your computer and it also work on the same computer. The branch is used to label the commits and to save your changes if you don't want to add it to the same branch. You also can use it to do other versions or modes from your code.  
+I will  use clone instead of fork I if I was not allowed to change the original repository or if I want my work to be separate from the original one.
