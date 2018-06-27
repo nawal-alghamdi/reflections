@@ -10,3 +10,9 @@ space on my laptop.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 The difference between fork and clone is the fork only work from github account to github account, but clone work from gitgub to your computer and it also work on the same computer. The branch is used to label the commits and to save your changes if you don't want to add it to the same branch. You also can use it to do other versions or modes from your code.  
 I will  use clone instead of fork I if I was not allowed to change the original repository or if I want my work to be separate from the original one.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+To know what is the last commit from the remote that you have locally so you know the difference between
+remote and locall and you can merge. And you can fetch the remote changes commit from the local copy so know
+you have all the commit locally. 
