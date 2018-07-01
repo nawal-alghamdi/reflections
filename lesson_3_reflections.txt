@@ -16,3 +16,7 @@ What is the benefit of having a copy of the last known state of the remote store
 To know what is the last commit from the remote that you have locally so you know the difference between
 remote and locall and you can merge. And you can fetch the remote changes commit from the local copy so know
 you have all the commit locally. 
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I think I can't. I realy don't know any thing that is easy to collaborate I just know about git and github.
