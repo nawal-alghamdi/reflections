@@ -20,3 +20,10 @@ you have all the commit locally.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I think I can't. I realy don't know any thing that is easy to collaborate I just know about git and github.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If I don't want to change the master branch or I can use it if I want to make a pull request.
+Separate branch is good if I want my work to be separate from the master. Working directly in master is less confusing.
+/// Here I will paste what they mention about "When to use a separate branch" so if I need it I will back here.
+You just saw that the workflow when making changes in a separate branch is more complicated than working directly in master, especially when you need to stay up-to-date with changes others are making. Rather than simply pulling and pushing, you need to pull changes into your local master branch, merge the local master into your branch (different-oil, in our case), then push your branch to the remote before finally merging your branch into master, either locally or on GitHub.
